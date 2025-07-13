@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChannelEngine.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eacc1151fefc890d3bd49c33e4341a919309ee07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d6abab1441f1f79476fb06d54ef244aae66e65b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChannelEngine.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChannelEngine.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

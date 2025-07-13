@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChannelEngine.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccc8a6ac53ccae8a6676d6cb92cca073e60291e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d6abab1441f1f79476fb06d54ef244aae66e65b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChannelEngine.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChannelEngine.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

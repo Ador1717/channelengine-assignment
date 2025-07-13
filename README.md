@@ -22,9 +22,17 @@ This solution contains a multi-project .NET 9.0 application to interact with the
 ```bash
 dotnet run --project ChannelEngine.ConsoleApp
 ```
-### Web App and vist the page with the given port
-dotnet run --project ChannelEngine.WebApp
 
+### Run Web App and vist the page:
+
+```bash
+dotnet run --project ChannelEngine.WebApp
+```
+```bash
+http://localhost:5059/Products
+``
 
 ### for running the tests
+```bash
 dotnet test ChannelEngine.Tests
+```
