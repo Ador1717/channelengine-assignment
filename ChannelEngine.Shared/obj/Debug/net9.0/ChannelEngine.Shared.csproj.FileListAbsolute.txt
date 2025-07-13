@@ -1,0 +1,12 @@
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\bin\Debug\net9.0\ChannelEngine.Shared.deps.json
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\bin\Debug\net9.0\ChannelEngine.Shared.dll
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\bin\Debug\net9.0\ChannelEngine.Shared.pdb
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\obj\Debug\net9.0\ChannelEngine.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\obj\Debug\net9.0\ChannelEngine.Shared.AssemblyInfoInputs.cache
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\obj\Debug\net9.0\ChannelEngine.Shared.AssemblyInfo.cs
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\obj\Debug\net9.0\ChannelEngine.Shared.csproj.CoreCompileInputs.cache
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\obj\Debug\net9.0\ChannelEngine.Shared.sourcelink.json
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\obj\Debug\net9.0\ChannelEngine.Shared.dll
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\obj\Debug\net9.0\refint\ChannelEngine.Shared.dll
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\obj\Debug\net9.0\ChannelEngine.Shared.pdb
+C:\Users\adord\Desktop\ChannalEngine\ChannelEngine.Shared\obj\Debug\net9.0\ref\ChannelEngine.Shared.dll
