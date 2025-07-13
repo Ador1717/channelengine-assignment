@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ChannelEngine.WebApp/1.0.0": {
+        "dependencies": {
+          "ChannelEngine.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ChannelEngine.WebApp.dll": {}
+        }
+      },
+      "ChannelEngine.Shared/1.0.0": {
+        "runtime": {
+          "ChannelEngine.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChannelEngine.WebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChannelEngine.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

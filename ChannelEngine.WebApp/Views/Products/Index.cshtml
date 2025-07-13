@@ -1,0 +1,23 @@
+@model List<ChannelEngine.Shared.Models.OrderDto>
+
+<h2>Top 5 Sold Products (IN_PROGRESS Orders)</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>GTIN</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Description</td>
+                <td>@product.Gtin</td>
+                <td>@product.Quantity</td>
+            </tr>
+        }
+    </tbody>
+</table>
